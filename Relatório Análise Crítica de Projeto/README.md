@@ -278,7 +278,7 @@ public class AlunoController {
 
 ## 9. 📄 Conclusão
 
-A análise do **Sistema de Moeda Estudantil** revelou um projeto com grande potencial de engajamento acadêmico e uma base documental visualmente forte (diagramas, histórias de usuário). No entanto, a implementação técnica inicial carecia de rigor arquitetural, apresentando **acoplamento entre Controller e Banco de Dados** e **riscos de segurança na exposição de dados**.
+A análise do **Sistema de Moeda Estudantil** revelou um projeto com grande potencial de engajamento acadêmico e uma base documental visualmente forte (diagramas, histórias de usuário). No entanto, a implementação técnica inicial carecia de rigor na arquitetura, apresentando **acoplamento entre Controller e Banco de Dados** e **riscos de segurança na exposição de dados**.
 
 As refatorações realizadas trouxeram o projeto para um nível profissional de Engenharia de Software:
 
